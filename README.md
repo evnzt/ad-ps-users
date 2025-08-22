@@ -20,7 +20,8 @@ This script creates user accounts with randomly generated names so you can popul
 - Open **PowerShell ISE** as an **Administrator**
 - Copy the raw code and paste it into a new **ISE** script file.
 - (*Recommended*) Reduce the number of accounts (*e.g., from 10k to 1k*) for a faster lab run.
-- Run the script (*F5*) and watch accounts being created in **_EMPLOYEES**.
+- Run the script (*F5*) and watch accounts being created in `_EMPLOYEES`.
+<img width="795" height="900" alt="333894143-9bc26a02-a162-4580-89fd-e8a1251dc9a7" src="https://github.com/user-attachments/assets/6398bf3b-3383-42a5-ae14-30c3f560d5fe" />
 
 ## Disclaimer
 
